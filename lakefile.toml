@@ -1,0 +1,5 @@
+name = "semantic_chains"
+defaultTargets = ["SemanticChains"]
+
+[[lean_lib]]
+name = "SemanticChains"
