@@ -1,6 +1,6 @@
 # Semantic Chains: From Reachable Facts to Justified Answers
 
-Lean 4 formalization of the paper by **Misha Andreev**.
+Lean 4 formalization of the paper by **Misha Andreev** ([arXiv:2611.14252](https://arxiv.org/abs/2611.14252)).
 
 [Theorem statement](SemanticChains/MainTheorem.lean#L168) · [Proof](SemanticChains/Section04/ChainExistence.lean#L94) · [Search, normalization and chain construction](SemanticChains/Section04/ChainExistence.lean#L67)
 
