@@ -6,6 +6,8 @@ Lean 4 formalization of the paper by **Misha Andreev** ([arXiv:2611.14252](https
 
 Which facts can a search reach from the objects mentioned in a question, and which of those facts justify its answer? The theorem starts with a sufficient root fact and a selected expansion containing a recorded designation of an object shared by the question and the full answer. It proves that search reaches the root and covers the selected expansion. Normalization leaves the root, for which there exists an admissible one-link text carrying the shared object at both ends of the chain.
 
+[24 worked examples from LoCoMo, RHELM, and EverMemBench](examples/24-question-audit.md)
+
 ## Build
 
 With [Elan](https://github.com/leanprover/elan) installed, run the following command in the repository root. The toolchain is pinned to Lean 4.24.0. The project has no external Lean package dependencies.
